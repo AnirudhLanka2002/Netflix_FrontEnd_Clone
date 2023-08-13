@@ -1,1 +1,1 @@
-# Netflix_FrontEnd_Clone
+A basic netflix clone made using HTML and CSS
